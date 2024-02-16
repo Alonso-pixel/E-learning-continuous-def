@@ -11,7 +11,9 @@ const CourseList = () => {
       <div className='container'>
         <div className='courses-list-top'>
           <h2>Cursos de maestros del TESI</h2>
-          <p>Cursos seleccionados tus profesores favoritos, que te ayudaran a comprender mejor tus materias</p>
+          <p>Cursos seleccionados de tus profesores favoritos, que te ayudaran a comprender mejor tus materias</p>
+          <p>Por cierto pásense por el canal de mi hermano, hace videos de Clash Royale y Pixel Gun, Aqui su link: </p>
+          <a href="https://www.youtube.com/@thewinnxd1054/videos">Clickeame!!</a>
         </div>
 
         <Tabs courses = {courses} />
